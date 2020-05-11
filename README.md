@@ -1,2 +1,0 @@
-# squarecounts
-Created with CodeSandbox
